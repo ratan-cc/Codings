@@ -1,7 +1,7 @@
 package javaCodingQuestions;
 /*4. Write a program to swap two numbers without using a third variable.*/
 public class Practice4 {
-    static void main(String[] args) {
+     public static void main(String[] args) {
         int a =40, b=6;
 
         System.out.println("A : " +a);

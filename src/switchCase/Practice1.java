@@ -1,7 +1,7 @@
 package switchCase;
 /*switch with yield (Block case – Java 17)*/
 public class Practice1 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int marks = 85;
 
         String grade = switch (marks / 10) {

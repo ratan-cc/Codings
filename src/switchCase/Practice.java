@@ -1,7 +1,7 @@
 package switchCase;
 /*Example of Switch case java 17 */
 public class Practice {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int day = 3;
         String dayName = switch (day){
             case 1 -> "Monday";
