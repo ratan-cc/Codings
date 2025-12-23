@@ -15,6 +15,8 @@ public class Practice5 {
 
         Collections.sort(list);
         int secondLargest = list.get(list.size()-2);
-        System.out.println(secondLargest);
+        System.out.println("List of element : " +list);
+
+        System.out.println("Second Largest element : " +secondLargest);
     }
 }
